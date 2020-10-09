@@ -1,7 +1,7 @@
 # Hello Normfag!
-###Here my latest screenshot, normal Gentoo install.
+### Here my latest screenshot, normal Gentoo install.
 ![GitHub Logo](gentooporn.png)
-###My older Void Linux install
+### My older Void Linux install
 ![GitHub Logo](unixporn.png)
 <!--
 **dein-uhrenmacher/dein-uhrenmacher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
